@@ -1,7 +1,7 @@
 Pour lancer l'app:
 1 - télécharger/cloner le dossier
 
-2 - Créer un environnement virtuel dans le dossier venv et activer le
+2 - Créer un environnement virtuel dans le dossier venv et activé le
   > cd backend && virtualenv env && source env/scripts/activate
   
 3 - télécharger les dépendances au niveau du fichier requirements (root)
