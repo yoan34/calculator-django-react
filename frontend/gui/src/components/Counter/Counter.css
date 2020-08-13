@@ -1,0 +1,12 @@
+.counter {
+    width: auto;
+    height: 181px;
+    margin-top: 45px;
+    margin-bottom: 31px;
+    text-align: center;
+    font: Bold 150px Roboto;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0px;
+    color: #6100ED;
+    opacity: 1;
+}

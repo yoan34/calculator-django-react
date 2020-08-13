@@ -1,0 +1,13 @@
+.container__app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top: 160px;
+    left: 625px;
+    width: 670px;
+    height: 760px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 3px 3px 2px #00000029;
+    border-radius: 5px;
+    opacity: 1;
+}

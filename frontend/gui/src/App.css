@@ -1,0 +1,14 @@
+.App {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  top: -12px;
+  left: -26px;
+  width: 100%;
+  height: 100%;
+  background: transparent linear-gradient(180deg, #465BC7 0%, #243171 100%) 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+}
