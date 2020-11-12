@@ -6,20 +6,16 @@ Pour lancer l'app:
   > cd calculator-django-react/
   
 3 - Créer un environnement virtuel dans le dossier backend et activer le
-  > cd backend/
-  > python -m venv env
-  >source env/scripts/activate
+  > cd backend/ && python -m venv env && source env/scripts/activate
   
 4 - télécharger les dépendances au niveau du fichier requirements (root)
-  > cd ..
-  > pip install -r requirements.txt
+  > cd .. && pip install -r requirements.txt
   
 5 - télécharger les modules frontend
   > cd frontend/gui && npm install
   
 5 - lancer le serveur django sur une console
-  > cd .. && cd .. && cd backend/drc/
-  > python manage.py runserver
+  > cd .. && cd .. && cd backend/drc/ && python manage.py runserver
   
 6 - lancer l'application côté front sur une autre console
   > npm start
