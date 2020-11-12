@@ -23,7 +23,7 @@ Pour lancer l'app:
   
 Aller sur http://localhost:3000/ et l'application se lance.
 
-Si besoin l'utilisateur admin pour le serveur:
+Si besoin l'utilisateur admin pour le serveur http://127.0.0.1:8000/admin/:
 
 -admin
 
