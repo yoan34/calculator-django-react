@@ -1,4 +1,5 @@
 Pour lancer l'app:
+
 1 - télécharger/cloner le dossier
   > git clone https://github.com/yoan34/calculator-django-react.git
   
@@ -21,3 +22,9 @@ Pour lancer l'app:
   > npm start
   
 Aller sur http://localhost:3000/ et l'application se lance.
+
+Si besoin l'utilisateur admin pour le serveur:
+
+-admin
+
+-753241
